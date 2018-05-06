@@ -4,7 +4,16 @@ public class TestClass
 {
    String var;
    String p;
-   public String getVar() {
+   
+   String inDev;
+   
+   public String getInDev() {
+	return inDev;
+}
+public void setInDev(String inDev) {
+	this.inDev = inDev;
+}
+public String getVar() {
 	return var;
 }
 public void setVar(String var) {

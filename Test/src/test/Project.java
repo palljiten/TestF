@@ -3,6 +3,7 @@ package test;
 public class Project 
 {
   int x;
+  int y;
   public int getX() {
 	return x;
 }
@@ -15,7 +16,7 @@ public int getY() {
 public void setY(int y) {
 	this.y = y;
 }
-int y;
+
   
   
 }

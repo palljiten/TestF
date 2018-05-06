@@ -3,6 +3,7 @@ package test;
 public class TestClass 
 {
    String var;
+   String p;
    public String getVar() {
 	return var;
 }
@@ -15,5 +16,5 @@ public String getP() {
 public void setP(String p) {
 	this.p = p;
 }
-String p;
+
 }
